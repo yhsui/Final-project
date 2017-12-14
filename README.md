@@ -5,7 +5,7 @@ Readme
 Team: HouseMatters
 Team member: Xuenan Ni, Yihang Sui and Yiling Xie
 
-The website we made is http://web.mit.edu/xuenanni/www/housematters/
+The website we made is http://web.mit.edu/suiyh/www/HouseMatters/
 
 Project Overview:
 In this project, we analyzed the rental housing market in Cambridge and Somerville by visualizing: housing monthly rent, housing type, housing location and housing description.
