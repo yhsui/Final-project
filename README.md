@@ -3,7 +3,7 @@ Housing price analysis website
 # Final-project
 Readme
 Team: HouseMatters
-Team member: Xuenan Ni, Yihang Sui and Yiling Xie
+Team member:  Yihang Sui, Xuenan Ni and Yiling Xie
 
 The website we made is http://web.mit.edu/suiyh/www/HouseMatters/
 
